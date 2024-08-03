@@ -11,5 +11,5 @@ the most important of which are the "spoiler detector" and "scene to frame" mode
 
 Example: 
 
-https://github.com/user-attachments/assets/bfa72d85-2220-4847-9400-5d35ab6386f5
+https://github.com/user-attachments/assets/4fee93a7-6a78-4331-8fe9-65331729504c
 
