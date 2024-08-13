@@ -12,6 +12,13 @@ To address these challenges, I utilized machine learning models such as Logistic
 
 ![image](https://github.com/user-attachments/assets/f04822e9-44b3-4b6d-b063-d8f0a5f0e350)
 
+For more details about the project take a look on the next 2 presentations (Spoiler Detector & Trailer Generator): 
+
+
+https://www.canva.com/design/DAGLjmSK4eg/RnYIv6d_0thE8NjYvw9BWQ/edit?utm_content=DAGLjmSK4eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+https://www.canva.com/design/DAGI3bPGux8/n9JeCmd0jbHK0biFAehtjg/edit?utm_content=DAGI3bPGux8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Example: 
 
