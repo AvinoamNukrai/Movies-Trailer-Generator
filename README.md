@@ -24,7 +24,7 @@ The "Spoiler Detector" model implementation details:
 ![image](https://github.com/user-attachments/assets/c968d0cf-dcb3-417e-85c5-c3b8c41a4c5e)
 
 
-![image](https://github.com/user-attachments/assets/83639a3d-344f-4dcd-aef8-f724d6338dca)
+  ![image](https://github.com/user-attachments/assets/83639a3d-344f-4dcd-aef8-f724d6338dca)
 
 
 The "Scene To Frame" model core algorithm:  
